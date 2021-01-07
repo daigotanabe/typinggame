@@ -40,6 +40,15 @@ body{
   cursor: pointer;
 }
 
+.typing a{
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
 .btn:hover{
   background: rgba(0, 0, 0, 0.1);
 }
